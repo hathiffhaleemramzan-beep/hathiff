@@ -47,6 +47,6 @@ My goal is to become a skilled DevOps / Cloud Engineer and Full Stack Developer.
 ## 📫 Connect With Me
 
 - LinkedIn: [Hathiff Haleem Ramzan](YOUR_LINKEDIN_LINK)
-- Email: YOUR_EMAIL
+- Email:hathiffhaleemramzan@gmail.com
 
 ⭐ Thanks for visiting my profile!
